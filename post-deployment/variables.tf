@@ -24,3 +24,11 @@ variable "routing" {
     secondary = number
   })
 }
+
+variable "route53_hosted_zone" {
+
+}
+
+variable "dns_name" {
+
+}

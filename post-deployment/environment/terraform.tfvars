@@ -10,3 +10,6 @@ routing = {
   primary   = 100
   secondary = 0
 }
+
+route53_hosted_zone = "Z027957834ITKR5SATJ7C"
+dns_name            = "sales.tdiniz.link"
